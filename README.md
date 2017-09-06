@@ -29,3 +29,8 @@ Happy hacking!
 Thanks for wanting to help make reddit better! First things first, though: **github issues is only for _confirmed_, active bugs**. Please submit ideas to [/r/ideasfortheadmins](https://www.reddit.com/r/ideasfortheadmins/).
 
 Please read more on contributions in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+### Forked on 20170906-1321EST
+
+Forking this since reddit is apparently closing it's repositories...
+Linux Magazine: [Reddit Closing Doors to Open Source](http://www.linux-magazine.com/Online/News/Reddit-Closing-Doors-to-Open-Source)
